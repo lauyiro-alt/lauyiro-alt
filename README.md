@@ -1,194 +1,201 @@
 ✨Welcome To YIRO's GITHUB💫
 **lauyiro-alt/lauyiro-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<!-- ======================================================
+     YI RO | NEON OBSIDIAN
+     FUTURISTIC GITHUB PROFILE
+======================================================= -->
+
 <div align="center">
 
-<!-- ═══ ANIMATED HEADER ═══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:030712,20:0B1128,45:102A43,75:164E63,100:030712&text=YI%20RO&fontSize=90&fontColor=BAF7FF&fontAlignY=40&desc=ENTERING%20THE%20DIGITAL%20UNIVERSE&descSize=17&descAlignY=62&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,30:0B1F3A,65:164E63,100:020617&text=Yi%20Ro&fontSize=70&fontColor=BAF7FF&fontAlignY=38&desc=QUIETLY%20BUILDING%20MY%20FUTURE&descSize=16&descAlignY=62&animation=fadeIn" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&height=50&lines=Computer+Network+%26+Cybersecurity+Student;Exploring+the+Digital+World;Learning+%7C+Building+%7C+Becoming;One+step+closer+every+day." />
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/PROFILE-ONLINE-00E5FF?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=COMPUTER+NETWORK+%26+CYBERSECURITY;EXPLORING+THE+UNKNOWN;BUILDING+SKILLS+BEYOND+THE+CLASSROOM;THE+JOURNEY+HAS+JUST+BEGUN." />
 </a>
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0B2538?style=for-the-badge&logo=hackthebox&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/MODE-ALWAYS_LEARNING-102C35?style=for-the-badge&logo=linux&logoColor=8AF5DC" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=164E63&label=PROFILE+VISITORS" />
+<img src="https://img.shields.io/badge/◈_IDENTITY-YI_RO-061A2B?style=for-the-badge&labelColor=020617&color=00D9FF" />
+<img src="https://img.shields.io/badge/◈_ACADEMIC-UTM-061A2B?style=for-the-badge&labelColor=020617&color=00D9FF" />
+<img src="https://img.shields.io/badge/◈_MISSION-ALWAYS_LEARNING-061A2B?style=for-the-badge&labelColor=020617&color=00D9FF" />
 
 <br/><br/>
 
-> *Curiosity is my starting point. Consistency is my strategy.*
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=164E63&label=VISITORS" />
+
+<br/><br/>
+
+<em>"Not trying to know everything, just trying to know a little more than yesterday."</em>
 
 </div>
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/01-ABOUT_ME-00E5FF?style=flat-square" />
-</h2>
-
-```yaml
-Name        : Yi Ro
-University  : Universiti Teknologi Malaysia
-Degree     : Computer Network & Cybersecurity
-Year       : First Year
-Focus      : Networking | Cybersecurity | Technology
-Mindset    : Quietly ambitious, always curious
-Goal       : Becoming a cybersecurity professional
-```
-
-<img align="right" width="100" src="https://media.giphy.com/media/3o7qE1YyJf9Ff5N1mM/giphy.gif" />
-
-Hi, I'm **Yi Ro** — a first-year Computer Network & Cybersecurity student at Universiti Teknologi Malaysia.
-
-I'm currently exploring the world of networking, cybersecurity, and computing, learning how things work behind the screen and how technology shapes our digital world.
-
-I may still be at the beginning of my technical journey, but I'm determined to grow beyond the classroom, challenge myself, and turn what I learn into practical skills.
-
-- 🎓 Computer Network & Cybersecurity @ UTM
-- 🔐 Exploring cybersecurity & network fundamentals
-- 💻 Learning programming through practice
-- 🧩 Interested in CTFs & technical challenges
-- 🌱 Building my skills one step at a time
-- 🎯 Working towards a future in tech
-
-<br/>
-
 ---
-
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/02-TECHNICAL_SKILLS-00E5FF?style=flat-square" />
-</h2>
 
 <div align="center">
 
-### `LANGUAGES`
+# ◈  SYSTEM INITIALIZED
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:164E63,100:020617&height=3" width="85%" />
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## ◈ WHO AM I?
+
+Hi, I'm **Yi Ro**.
+
+A first-year Computer Network & Cybersecurity student at Universiti Teknologi Malaysia (UTM).
+
+I'm a quiet, curious, and ambitious learner who enjoys understanding how things work behind the scenes.
+
+From programming logic to network communication and cybersecurity, I'm exploring the technology that powers our digital world.
+
+I don't claim to know everything. I'm here to learn, experiment, make mistakes, and improve.
+
+**My mindset:** Think deeply. Learn continuously. Grow independently.
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img width="95%" src="https://skillicons.dev/icons?i=linux,cpp,java,github,git,vscode&perline=3&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LOCATION-MALAYSIA-0B2538?style=flat-square&logo=googlemaps&logoColor=67E8F9" />
+
+<img src="https://img.shields.io/badge/UNIVERSITY-UTM-0B2538?style=flat-square&logo=academia&logoColor=67E8F9" />
+
+<img src="https://img.shields.io/badge/STATUS-UNDERGRADUATE-0B2538?style=flat-square&logo=bookstack&logoColor=67E8F9" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# ◈  TECHNICAL UNIVERSE
+
+<sub>THE TECHNOLOGIES I'M EXPLORING</sub>
+
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/01-PROGRAMMING-020617?style=for-the-badge&labelColor=164E63"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
 
-<br/>
+<br/><br/>
 
-### `TOOLS & ENVIRONMENT`
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode,linux&theme=dark" />
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**ANALYTICAL**
-
-Logical Thinking  
-Problem Solving  
-Mathematics
+<sub>Logic · Algorithms · Problem Solving</sub>
 
 </td>
 <td align="center" width="33%">
 
-**COLLABORATIVE**
+<img src="https://img.shields.io/badge/02-ENVIRONMENT-020617?style=for-the-badge&labelColor=164E63"/>
 
-Teamwork  
-Communication  
-Adaptability
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" />
+
+<br/><br/>
+
+<sub>Linux · Version Control · Development</sub>
 
 </td>
 <td align="center" width="33%">
 
-**GROWTH**
+<img src="https://img.shields.io/badge/03-EXPLORATION-020617?style=for-the-badge&labelColor=164E63"/>
 
-Self-learning  
-Curiosity  
-Persistence
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=cloud,python,bash&theme=dark" />
+
+<br/><br/>
+
+<sub>Networking · Security · Automation</sub>
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-<sub>Currently strengthening my fundamentals through coursework, self-learning, and hands-on practice.</sub>
-</p>
-
----
-
-<!-- ═══════════════ INTERESTS ═══════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/03-RESEARCH_INTERESTS-00E5FF?style=flat-square" />
-</h2>
-
-<table width="100%">
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/SECURITY-0B1F3A?style=flat-square&logo=hackthebox&logoColor=00E5FF"/>
-
-### 🔐 Cybersecurity
-
-<sub>Security · Threats · Defense</sub>
-
-Exploring vulnerabilities and understanding how digital systems can be protected.
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/NETWORK-0B1F3A?style=flat-square&logo=cisco&logoColor=00E5FF"/>
-
-### 🌐 Computer Networking
-
-<sub>Protocols · Infrastructure</sub>
-
-Understanding network communication, architecture, and connectivity.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/CLOUD-0B1F3A?style=flat-square&logo=icloud&logoColor=00E5FF"/>
-
-### ☁️ Cloud Computing
-
-<sub>Infrastructure · Scalability</sub>
-
-Exploring modern computing environments and cloud technologies.
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/INNOVATION-0B1F3A?style=flat-square&logo=ai&logoColor=00E5FF"/>
-
-### 🤖 Emerging Technology
-
-<sub>AI · Automation</sub>
-
-Discovering technologies shaping the future of computing.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/04-FEATURED_PROJECTS-00E5FF?style=flat-square" />
-</h2>
 
 <div align="center">
 
-<sub>A collection of things I build, learn, break, fix, and improve.</sub>
+<sub>Icons represent areas of learning and exploration, not verified proficiency.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+# ◈  RESEARCH & INTERESTS
+
+<sub>FOCUS AREAS · CURIOSITY · FUTURE POSSIBILITIES</sub>
+
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/01-SECURITY-07182B?style=for-the-badge&logo=hackthebox&logoColor=00E5FF"/>
+
+### 🔐 Cybersecurity
+
+Security fundamentals, vulnerabilities, threat prevention and system protection.
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/02-NETWORKS-07182B?style=for-the-badge&logo=cisco&logoColor=00E5FF"/>
+
+### 🌐 Computer Networking
+
+Network architecture, protocols, connectivity and communication.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/03-CLOUD-07182B?style=for-the-badge&logo=icloud&logoColor=00E5FF"/>
+
+### ☁️ Cloud Computing
+
+Cloud infrastructure, distributed systems and scalability.
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/04-FUTURE_TECH-07182B?style=for-the-badge&logo=probot&logoColor=00E5FF"/>
+
+### 🤖 Emerging Technology
+
+Artificial intelligence, automation and digital innovation.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# ◈  DIGITAL ARCHIVE
+
+<sub>MY PROJECTS · EXPERIMENTS · TECHNICAL JOURNEY</sub>
 
 </div>
 
@@ -196,48 +203,56 @@ Discovering technologies shaping the future of computing.
 <tr>
 <td width="50%" valign="top">
 
-### ◈ PROJECT_01
+<img src="https://img.shields.io/badge/PROJECT_01-00D9FF?style=for-the-badge&labelColor=061525"/>
 
-**[Project Name](https://github.com/YOUR_USERNAME/PROJECT_1)**
+### ◈ [Project Name](https://github.com/YOUR_USERNAME/PROJECT_1)
 
-`C++` · `Problem Solving`
+`C++` `Programming`
 
-Briefly describe what you built, why you built it, and what you learned.
+Description of your first project.
+
+**What I learned:** Add the main concepts and skills gained.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ PROJECT_02
+<img src="https://img.shields.io/badge/PROJECT_02-00D9FF?style=for-the-badge&labelColor=061525"/>
 
-**[Project Name](https://github.com/YOUR_USERNAME/PROJECT_2)**
+### ◈ [Project Name](https://github.com/YOUR_USERNAME/PROJECT_2)
 
-`Networking` · `Fundamentals`
+`Networking` `Technology`
 
-Describe your networking project, lab, or experiment.
+Description of your networking project.
+
+**What I learned:** Add the main concepts and skills gained.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ PROJECT_03
+<img src="https://img.shields.io/badge/PROJECT_03-00D9FF?style=for-the-badge&labelColor=061525"/>
 
-**[Project Name](https://github.com/YOUR_USERNAME/PROJECT_3)**
+### ◈ [Project Name](https://github.com/YOUR_USERNAME/PROJECT_3)
 
-`Cybersecurity` · `Security`
+`Cybersecurity` `Security`
 
-Showcase a cybersecurity lab, script, or challenge write-up.
+Description of your cybersecurity lab.
+
+**What I learned:** Add the main concepts and skills gained.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ PROJECT_04
+<img src="https://img.shields.io/badge/PROJECT_04-00D9FF?style=for-the-badge&labelColor=061525"/>
 
-**[Project Name](https://github.com/YOUR_USERNAME/PROJECT_4)**
+### ◈ [Project Name](https://github.com/YOUR_USERNAME/PROJECT_4)
 
-`Linux` · `Documentation`
+`Linux` `Documentation`
 
-Share technical notes, documentation, or a learning repository.
+Description of your technical documentation.
+
+**What I learned:** Add the main concepts and skills gained.
 
 </td>
 </tr>
@@ -246,126 +261,165 @@ Share technical notes, documentation, or a learning repository.
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/ACCESS_ALL_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/05-GITHUB_ANALYTICS-00E5FF?style=flat-square" />
-</h2>
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050B18&title_color=00E5FF&icon_color=00E5FF&text_color=C9D8F0&theme=transparent" />
+# ◈  GITHUB COMMAND CENTER
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050B18&title_color=00E5FF&text_color=C9D8F0&theme=transparent" />
+<sub>MY OPEN SOURCE FOOTPRINT · LIVE ACCOUNT STATISTICS</sub>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=050B18&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=718096" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050B18&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&bg_color=050B18&title_color=22D3EE&text_color=CBD5E1"/>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=050B18&ring=22D3EE&fire=F0ABFC&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050B18&color=67E8F9&line=0891B2&point=F0ABFC&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/06-ACHIEVEMENTS-00E5FF?style=flat-square" />
-</h2>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/SPM-10As-C9A86A?style=for-the-badge&labelColor=101827" />
-<img src="https://img.shields.io/badge/MATRICULATION-CGPA_4.00-C9A86A?style=for-the-badge&labelColor=101827" />
-<img src="https://img.shields.io/badge/INNOMATH_2025-GOLD_AWARD-C9A86A?style=for-the-badge&labelColor=101827" />
+# ◈  ACHIEVEMENT DATABASE
+
+<sub>EVERY MILESTONE IS PART OF THE JOURNEY</sub>
 
 </div>
 
-<br/>
+<table width="100%">
+<tr>
+<td align="center" width="33%">
 
-- 🏆 Mathematics innovation & problem solving
-- 📚 Strong academic foundation in mathematics and science
-- 🌱 Transitioning from theoretical learning to practical technology
+<img src="https://img.shields.io/badge/ACADEMIC-10As-0B2538?style=for-the-badge&labelColor=020617"/>
 
----
+### 🎓 SPM
 
-<!-- ═══════════════ LEARNING LOG ═══════════════ -->
+**10As**
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/07-CURRENT_LEARNING-00E5FF?style=flat-square" />
-</h2>
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/ACADEMIC-4.00-0B2538?style=for-the-badge&labelColor=020617"/>
+
+### 📚 Matriculation
+
+**CGPA 4.00**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/INNOVATION-GOLD-0B2538?style=for-the-badge&labelColor=020617"/>
+
+### 🥇 INNOMATH 2025
+
+**Gold Award**
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F3A&height=2&width=600" width="80%" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10"/>
+
+<sub>GitHub trophies are generated from actual GitHub activity.</sub>
 
 </div>
 
-```text
-┌──────────────────────────────────────────┐
-│         CURRENT LEARNING LOG          │
-├──────────────────────────────────────────┤
-│                                      │
-│  > C++ PROGRAMMING                   │
-│  > NETWORKING FUNDAMENTALS           │
-│  > CYBERSECURITY BASICS              │
-│  > LINUX & COMMAND LINE              │
-│  > GIT & VERSION CONTROL              │
-│  > HANDS-ON TECHNICAL CHALLENGES    │
-│                                      │
-└──────────────────────────────────────────┘
-```
+---
 
-### `EXPERIENCE I WANT TO GAIN`
+<div align="center">
 
-<img src="https://img.shields.io/badge/CTF-00E5FF?style=flat-square&labelColor=0B1F3A"/>
-<img src="https://img.shields.io/badge/HACKATHONS-00E5FF?style=flat-square&labelColor=0B1F3A"/>
-<img src="https://img.shields.io/badge/WORKSHOPS-00E5FF?style=flat-square&labelColor=0B1F3A"/>
-<img src="https://img.shields.io/badge/PROJECTS-00E5FF?style=flat-square&labelColor=0B1F3A"/>
-<img src="https://img.shields.io/badge/COMPETITIONS-00E5FF?style=flat-square&labelColor=0B1F3A"/>
+# ◈  CURRENT MISSION
 
-I'm not here just to collect certificates.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&height=45&lines=MASTERING+THE+FUNDAMENTALS;EXPLORING+NETWORK+SECURITY;PREPARING+FOR+CTF+CHALLENGES;BUILDING+REAL+WORLD+PROJECTS" />
 
-I'm here to understand, experiment, collaborate, make mistakes, and become better with every challenge.
+</div>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+`01`
+
+**Programming**
+
+C++ fundamentals and logical problem-solving
+
+</td>
+<td align="center">
+
+`02`
+
+**Networking**
+
+Understanding how networks communicate
+
+</td>
+<td align="center">
+
+`03`
+
+**Security**
+
+Exploring cybersecurity fundamentals
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LOOKING_FOR-CTFs-07182B?style=flat-square&logo=hackthebox&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/INTERESTED_IN-HACKATHONS-07182B?style=flat-square&logo=devpost&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-07182B?style=flat-square&logo=github&logoColor=00E5FF"/>
+
+</div>
 
 ---
 
-<!-- ═══════════════ CONTACT ═══════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/08-CONNECT_WITH_ME-00E5FF?style=flat-square" />
-</h2>
-
 <div align="center">
+
+# ◈  ESTABLISH CONNECTION
+
+<sub>ALWAYS OPEN TO LEARNING, SHARING AND CONNECTING</sub>
+
+<br/><br/>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-050B18?style=for-the-badge&logo=github&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-020617?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-050B18?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-050B18?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-020617?style=for-the-badge&logo=gmail&logoColor=67E8F9"/>
 </a>
 
-</div>
+<br/><br/>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:030712,40:102A43,75:164E63,100:030712&section=footer&animation=fadeIn"/>
 
-<div align="center">
+### `DREAM BIG  //  LEARN DEEP  //  STAY CURIOUS`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:164E63,50:0B1F3A,100:020617&section=footer" />
-
-### `DREAM BIG. LEARN DEEP. STAY CURIOUS.`
-
-<sub>Building quietly · Growing constantly · 🌙</sub>
+<sub>◈ A journey of continuous growth — Yi Ro © 2026</sub>
 
 </div>
+<img width="1536" height="1024" alt="1000023901" src="https://github.com/user-attachments/assets/41c959ad-4b7e-437d-a2b6-9fa4b1554b68" />
+
