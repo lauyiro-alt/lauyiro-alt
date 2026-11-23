@@ -1,14 +1,10 @@
 ✨Welcome To YIRO's GITHUB💫
 **lauyiro-alt/lauyiro-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 <!-- ======================================================
      YI RO | NEON OBSIDIAN
      FUTURISTIC GITHUB PROFILE
 ======================================================= -->
-
-</div>
-<img width="1536" height="1024" alt="1000023901" src="https://github.com/user-attachments/assets/41c959ad-4b7e-437d-a2b6-9fa4b1554b68" />
 
 <div align="center">
 
@@ -33,7 +29,6 @@
 <em>"Not trying to know everything, just trying to know a little more than yesterday."</em>
 
 </div>
-
 
 ---
 
@@ -425,5 +420,11 @@ Exploring cybersecurity fundamentals
 <sub>◈ A journey of continuous growth — Yi Ro © 2026</sub>
 
 </div>
-<img width="1536" height="1024" alt="1000023901" src="https://github.com/user-attachments/assets/41c959ad-4b7e-437d-a2b6-9fa4b1554b68" />
+
+
+
+
+
+
+
 
