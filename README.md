@@ -1,6 +1,9 @@
 ✨Welcome To YIRO's GITHUB💫
 **lauyiro-alt/lauyiro-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align="center">
+  <img src="assets/github-profile-design.png" width="100%" />
+</div>
 <!-- ======================================================
      YI RO | NEON OBSIDIAN
      FUTURISTIC GITHUB PROFILE
