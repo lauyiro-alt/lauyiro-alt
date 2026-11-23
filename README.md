@@ -7,6 +7,9 @@
      FUTURISTIC GITHUB PROFILE
 ======================================================= -->
 
+</div>
+<img width="1536" height="1024" alt="1000023901" src="https://github.com/user-attachments/assets/41c959ad-4b7e-437d-a2b6-9fa4b1554b68" />
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:030712,20:0B1128,45:102A43,75:164E63,100:030712&text=YI%20RO&fontSize=90&fontColor=BAF7FF&fontAlignY=40&desc=ENTERING%20THE%20DIGITAL%20UNIVERSE&descSize=17&descAlignY=62&animation=fadeIn" />
@@ -31,8 +34,7 @@
 
 </div>
 
-</div>
-<img width="1536" height="1024" alt="1000023901" src="https://github.com/user-attachments/assets/41c959ad-4b7e-437d-a2b6-9fa4b1554b68" />
+
 ---
 
 <div align="center">
