@@ -1,5 +1,5 @@
 <img width="1536" height="1024" alt="1000023901" src="https://github.com/user-attachments/assets/0d347b33-cf07-4ae3-9486-c07488760cdf" />
-<img width="1536" height="1024" alt="1000023901" src="https://github.com/user-attachments/assets/79a44d50-32c4-4915-b517-c1b819441497" />
+
 ✨Welcome To YIRO's GITHUB💫
 **lauyiro-alt/lauyiro-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
