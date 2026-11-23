@@ -1,15 +1,24 @@
-## Hi there 👋
+##Welcome To YIRO's GITHUB😺
 **lauyiro-alt/lauyiro-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am a first-year Computer Network and Cybersecurity student at Universiti Teknologi Malaysia (UTM), with a strong academic background in mathematics and science. I achieved 10As in SPM and a 4.00 CGPA in my matriculation studies, where I developed analytical thinking, problem-solving, and a passion for technology.   
+✦ ABOUT ME
 
-Currently, I am exploring the fields of computer networking, cybersecurity, and information technology while building my technical knowledge through coursework, self-learning, and hands-on experiences. I am particularly interested in understanding how networks operate, how systems can be secured, and how technology can be used to solve real-world problems.
+🎓 Computer Network & Cybersecurity Student | Universiti Teknologi Malaysia (UTM)
 
-Key Skills:
+I am a first-year Computer Network and Cybersecurity student at Universiti Teknologi Malaysia (UTM) with a strong academic foundation in mathematics and science. Having achieved 10As in SPM and a 4.00 CGPA in Matriculation, I have developed strong analytical thinking, problem-solving abilities, and a growing interest in technology.
+
+💻 TECHNICAL INTERESTS
+
+Currently, I am exploring the fields of computer networking, cybersecurity, and information technology while continuously expanding my knowledge through coursework, self-learning, and hands-on experiences. I am particularly interested in understanding how networks operate, how systems can be secured against cyber threats, and how technology can be leveraged to solve real-world problems.
+
+✧ CORE SKILLS
 
 - Analytical Thinking & Problem-Solving
 - Teamwork & Collaboration
 - Adaptability & Continuous Learning
 
-My career goal is to become a competent cybersecurity professional, continuously developing my technical skills, gaining practical experience through competitions and projects, and preparing myself for future opportunities in the technology industry.
+🚀 CAREER ASPIRATION
 
+My goal is to become a competent cybersecurity professional with strong technical expertise and practical experience. I aspire to continuously challenge myself through projects, competitions, hackathons, and collaborative learning opportunities while preparing for a meaningful career in the technology industry.
+
+Curious by nature, driven to learn, and committed to growing one step at a time. ✧
